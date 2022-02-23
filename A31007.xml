@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pindarick congratulatory poem to the Right Honourable George, Lord Jeffreys, Baron of Wem and Lord High Chancellor of England, to the High and Mighty Monarch King James the II &amp;c. by Joshua Barnes ...</title>
+            <author>Barnes, Joshua, 1654-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31007</idno>
+            <idno type="STC">Wing B872</idno>
+            <idno type="STC">ESTC R5386</idno>
+            <idno type="EEBO-CITATION">13687276</idno>
+            <idno type="OCLC">ocm 13687276</idno>
+            <idno type="VID">101358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31007)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101358)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 833:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pindarick congratulatory poem to the Right Honourable George, Lord Jeffreys, Baron of Wem and Lord High Chancellor of England, to the High and Mighty Monarch King James the II &amp;c. by Joshua Barnes ...</title>
+                  <author>Barnes, Joshua, 1654-1712.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Walter Davis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jeffreys, George Jeffreys, --  Baron, 1644 or 5-1689 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101358:1"/>
+            <pb facs="tcp:101358:1"/>
+            <p>A PINDARICK Congratulatory Poem To the Right Honourable George, Lord Jeffreys, BARON of WEM, and LORD HIGH CHANCELLOR OF ENGLAND To the High and Mighty Monarch King JAMES the II. &amp;c.</p>
+            <p>By <hi>Joſhua Barnes,</hi> M. A. One of the Senior Fellows of <hi>Emmanuel Colledge</hi> in <hi>Cambridge.</hi>
+            </p>
+            <floatingText type="license" xml:lang="lat" subtype="imprimatur">
+               <body>
+                  <p>IMPRIMATUR,</p>
+                  <closer>
+                     <signed>S. Blithe, Procan. Acad. Cantab.</signed>
+                     <dateline>
+                        <date>Octob. 5. 1685.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed, and are to be ſold by <hi>Walter Davis</hi> in <hi>Amen-Corner.</hi> 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Pindaric_ode">
+            <pb facs="tcp:101358:2"/>
+            <pb n="3" facs="tcp:101358:2" rendition="simple:additions"/>
+            <head>A PINDARICK Congratulatory Poem To the Right Honourable <hi>George, Lord Ieffreys,</hi> BARON of WEM, AND <hi>Lord High Chancellor,</hi> &amp;c.</head>
+            <lg n="1">
+               <head>Stanz. I.</head>
+               <l>A Riſe, my Muſe, now take a loftier Flight,</l>
+               <l>Toward Heaven thy dareing Pinions try;</l>
+               <l>There on the <hi>Sun</hi> fix Thou thine Eagle Sight,</l>
+               <l>The Object's <hi>Good,</hi> altho' 'tis <hi>High;</hi>
+               </l>
+               <l>And <hi>He,</hi> who ſits to <hi>JAMES</hi> ſo nigh,</l>
+               <l>(Tho' <hi>Juſt</hi> He be) in <hi>Mercy</hi> muſt delight.</l>
+               <lg type="triplet">
+                  <l>This<note n="*" place="margin">Octob. <hi>5.</hi>
+                     </note> Day all <hi>Cambridge</hi> did conſpire</l>
+                  <l>To Praiſe thoſe Glories, We admire:</l>
+                  <l>Be that my ſingle Task, which pleas'd that learned Quire.</l>
+               </lg>
+               <l>This Day our Sacred Body, all conven'd,</l>
+               <l>(Where <hi>Loyalty</hi> and <hi>Knowledge</hi> do preſide)</l>
+               <l>Decreed to honour Mighty <hi>Caeſar</hi>'s Friend,</l>
+               <l>The <hi>Muſes</hi> Glory, and <hi>Aſtraea's</hi> Pride.</l>
+               <l>To <hi>Him</hi> their humble Complements they ſend,</l>
+               <pb n="4" facs="tcp:101358:3"/>
+               <l>Tho' ſorry, all their <hi>Art</hi>'s too low</l>
+               <l>The heights of his juſt <hi>Eminence</hi> to ſhow;</l>
+               <l>Much leſs with <hi>Equal</hi> Praiſe his <hi>Virtues</hi> to commend.</l>
+               <l>
+                  <hi>Virtues,</hi> as far beyond his High <hi>Degree,</hi>
+               </l>
+               <l>As <hi>Him</hi> above <hi>our ſelves</hi> we ſee,</l>
+               <l>The <hi>Prop,</hi> whereon <hi>Juſtice</hi> and <hi>Law</hi> do truſt,</l>
+               <l>Rais'd up aloft by <hi>JAMES</hi> the <hi>Juſt.</hi>
+               </l>
+               <l>By <hi>JAMES,</hi> of whom with Pride <hi>Apollo</hi> ſings,</l>
+               <l>The <hi>beſt</hi> of <hi>Friends,</hi> of <hi>Brothers,</hi> and of <hi>Kings.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Now thoſe, (if ſuch there ſtill can be,</l>
+               <l>Black Rebells in the worſt degree)</l>
+               <l>Who dare diſtruſt, Great Prince, thy <hi>Royal Word,</hi>
+               </l>
+               <l>May plainly ſee</l>
+               <l>(If they can e're be wrought on to Repent)</l>
+               <l>By this vaſt Inſtance, which thou doſt afford,</l>
+               <l>That 'tis thy firm intent,</l>
+               <l>T' uphold the Government;</l>
+               <l>And thenceforth acquieſce in thy Juſt Laws and Thee:</l>
+               <lg type="triplet">
+                  <l>Since <hi>Him,</hi> whom <hi>Factious Noiſe</hi> could never Awe,</l>
+                  <l>Nor <hi>Fear,</hi> nor <hi>Hope,</hi> from Rules of Juſtice draw,</l>
+                  <l>Since Him Thou'ſt made the <hi>Oracle</hi> of <hi>England's Law.</hi>
+                  </l>
+               </lg>
+               <l>Great <hi>Jeffreys,</hi> yet not half ſo Great as Good,</l>
+               <l>How little was thy Worth once underſtood!</l>
+               <l>How lay it unreveal'd,</l>
+               <l>Like a rich Gemm, in dirty Mines conceal'd;</l>
+               <l>When by the <hi>Mobile</hi> ſo much abus'd!</l>
+               <l>Or rather then, How was thy Virtue known,</l>
+               <l>And dreaded by the Vice-empoiſon'd <hi>Town,</hi>
+               </l>
+               <l>Who <hi>Thee</hi> (as ſinful <hi>Jews</hi> the <hi>Saviour</hi> once) refus'd!</l>
+            </lg>
+            <pb n="5" facs="tcp:101358:3"/>
+            <lg n="3">
+               <head>III.</head>
+               <l>But <hi>CHARLES</hi> (whoſe Memory ſtill ſhall live,</l>
+               <l>While Pen, or Verſe, a Name can give)</l>
+               <l>Receiv'd Thee in His more propitious Armes;</l>
+               <l>Where thy late-bleſſed Honor thriv'd amain,</l>
+               <l>Its former Grace did quickly re-obtain,</l>
+               <l>Encircled round with ſweet endearing Charmes,</l>
+               <l>And Crown'd with awfull Love again.</l>
+               <l>So look'd <hi>Aſtraea,</hi> Reverend and Severe,</l>
+               <l>Tho' to the wiſer Gods, as <hi>Mercy,</hi> Dear.</l>
+               <l>And thus, while in thy brighter Soul there ſtood</l>
+               <l>The Heavenly Form of all, that's <hi>Juſt</hi> and <hi>Good.</hi>
+               </l>
+               <l>It's Beauties God-like <hi>JAMES</hi> beheld,</l>
+               <l>(For Virtue beſt can Virtue's Beauties find)</l>
+               <l>And ſtraight with Love Divine His Boſom ſwell'd:</l>
+               <l>Only ſuch perfect Forms affect ſo Great a Mind.</l>
+               <l>Then to Her Seat the Goddeſs He reſtor'd,</l>
+               <l>And arm'd Her with a <hi>Whig</hi>-confounding Sword;</l>
+               <l>Gave Her a Champion by Her ſide,</l>
+               <l>Of Conduct and of Courage try'd:</l>
+               <l>To <hi>Jeffrey</hi>'s Care commended His dear Law,</l>
+               <l>And bad him guard Her as the Soul,</l>
+               <l>Which <hi>Monarchy</hi> it ſelf doth actuate,</l>
+               <l>Which only can <hi>Sedition</hi>'s Powers controul,</l>
+               <l>And <hi>Faction</hi>'s Fury awe,</l>
+               <l>And render Calm a Rough tempeſtuous State.</l>
+               <l>Thus was Life's ſacred Tree of old</l>
+               <l>Committed to a Guardian Angel's Care;</l>
+               <l>Who ſtill a flaming Sword did hold;</l>
+               <l>Leſt Rebell <hi>Adam</hi>'s Race ſhould dare</l>
+               <l>T' invade thoſe Bliſsful Limits, where</l>
+               <pb n="6" facs="tcp:101358:4"/>
+               <l>The <hi>World's Great Monarch</hi> ſet his <hi>Plant</hi> of Gold.</l>
+               <l>Thrice happy <hi>IAMES,</hi> whoſe <hi>Firſt Year's Reign</hi>
+               </l>
+               <l>Hath brought <hi>Aſtraea</hi> back to Earth again!</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Surely, Great <hi>SIR,</hi> when late Poſterity</l>
+               <l>Shall hear the ſound of thy Renown and Thee;</l>
+               <l>Tho' much thine <hi>Eloquence</hi> they will admire,</l>
+               <l>And <hi>Loyalty (by which the Good aſpire)</hi>
+               </l>
+               <l>Tho' much thy wondrous <hi>Judgment</hi> they will praiſe,</l>
+               <l>And <hi>Love to Learning</hi> (rare in theſe our Days)</l>
+               <l>Tho' much thine <hi>Equity</hi> they muſt commend,</l>
+               <l>Tho' much thy <hi>ſcorn of Hopes or Fears,</hi>
+               </l>
+               <l>Great Virtues purchas'd in few Years!</l>
+               <l>Yet this, I'm ſure, will prove</l>
+               <l>The greateſt Praiſe thy Glorious Soul can love,</l>
+               <l>'Cauſe this doth all the others comprehend,</l>
+               <l>When they ſhall ſay, "<hi>Wiſe</hi> JAMES <hi>was</hi> Jeffrey<hi>'s Friend.</hi>
+               </l>
+               <l>And if from Gods and Kings we dare</l>
+               <l>Pretend to Merit, when they bounteous are;</l>
+               <lg type="triplet">
+                  <l>Surely with Charms of Service Thou did'ſt bind</l>
+                  <l>Thy <hi>Mighty Maſter's</hi> generous Mind,</l>
+                  <l>And as it were oblige Him to be Kind.</l>
+               </lg>
+               <l>Or rather, 'cauſe He's Juſt, and knew</l>
+               <l>That Thou, Great <hi>Jeffreys,</hi> waſt ſo too,</l>
+               <l>He judg'd thee <hi>Worthy of a Monarch's Love,</hi>
+               </l>
+               <l>And, like a Prince, did by His bounty prove</l>
+               <l>What high Eſteem in Him thy Worth did raiſe:</l>
+               <l>When meaner Souls (the ſcandal of our Days)</l>
+               <l>
+                  <hi>Repay Deſert only with empty Praiſe.</hi>
+               </l>
+            </lg>
+            <pb n="7" facs="tcp:101358:4"/>
+            <lg n="5">
+               <head>V.</head>
+               <l>Nor do we only love Thee now</l>
+               <l>For Mighty <hi>Caeſar</hi>'s ſake,</l>
+               <l>But all the Land thy Praiſe doth ſpeak,</l>
+               <l>Oblig'd on't's own account, and humbly low</l>
+               <l>To Her Deliverer's honour'd Name ſhall bow.</l>
+               <l>Well did thy wiſely-pruning Hand</l>
+               <l>Lop off thoſe Suckers of the <hi>Weſtern</hi> Land,</l>
+               <l>That once deſign'd to draw away</l>
+               <l>The Vital Sap of <hi>Britain</hi>'s Royal Tree,</l>
+               <l>Whoſe Proſp'rous Strength's the only ſtay</l>
+               <l>Of Government, Religion, Equity:</l>
+               <l>On whoſe firm Branches Three Great Crowns do ſtand.</l>
+               <l>Henceforth— (All Loyal Men,</l>
+               <l>And Heaven and Earth ſing an <hi>Amen!</hi>)</l>
+               <l>The Root of <hi>Monarchy</hi> is fixt more ſure;</l>
+               <l>More wide the lovely Branches ſpread,</l>
+               <l>And up to Heaven advance their aweful Head:</l>
+               <l>Nor can the Thunders e're their hurt procure;</l>
+               <l>Since they the <hi>Thund'rers</hi> Glory do ſecure;</l>
+               <l>Nor ſhall they fear the touch of Light'nings Blaſt;</l>
+               <l>'Gainſt Rebell Winds and Storms they ſhall endure,</l>
+               <l>And an adored Oak of Trophies, laſt:</l>
+               <l>
+                  <hi>Till</hi> Jeffreys<hi>'s Fame's aſleep, and Time it ſelf be paſt.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
